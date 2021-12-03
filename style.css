@@ -1,0 +1,64 @@
+body{
+
+background-color: orange;
+font-family: 'Scheherazade New', serif;
+}
+ul{
+    background-color: orange;
+}
+li{
+    float: left;
+    padding: 10px 73px;
+    background-color: orange;
+}
+img{
+	width:100%;
+}
+
+.HeaderImg{
+    width: 100%;
+   
+}
+.HeaderImg img{
+    height: 300px;
+   
+}
+.header{} 
+.hello{
+    background-color: orange;
+    padding: 5px;
+}
+.blog{
+    width: 23%;
+    border: 1px solid black;
+    padding:5px;
+    margin: 5px;
+    float: left;
+    background-color: white;
+}
+.blog a{
+    background-color: orange;
+    padding: 5px;
+    border-radius: 5px;
+}
+.social{
+    background-color: blanchedalmond;
+}
+.fta{
+  width: 33%;
+float: left;
+background-color: black;
+height: 183px;
+padding: 1px;
+
+}
+.futar{
+    color: white;
+ 
+}
+.futar a{
+    color: white;
+}
+a{
+    color: black;
+}
